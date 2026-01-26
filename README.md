@@ -1,5 +1,11 @@
-## Hi there 👋
+## Hi there 👋 Glad you could find me. Here is a short excerpt about why I am here. 
 
+I am a double major studying Cybersecurity & Networks/System Administration. Here, you can follow along my professional journey as I progress.
+
+
+- 🔭 I’m currently working on creating my own homelab!
+- ⚡ Forward thinking: I have intentions to apply myself in the Cybersecurity field, with a interest in Offesnsive Security, but I am happy to contribute to teams in any way!
+- 📫 How to reach me: Email - tldalton54@gmail.com | LinkedIN - https://www.linkedin.com/in/daltontyler/
 <!--
 **tyler-dalton/tyler-dalton** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
