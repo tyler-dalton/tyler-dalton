@@ -4,7 +4,7 @@ I am a double major studying Cybersecurity & Networks/System Administration. Her
 
 
 - I am currently running a homelab! I have a three-node ProxMox sandbox, and a four-node Kubernetes cluster that I use for enterprise-grade, production work.
-- Previous experiences: This summer, I had the pleasure of working with Awetomaton Ltd. - a defense contractor at Wright-Patterson Air Force Base. Over the summer I worked as a Platform Engineer Intern. My partner and I built and deployed a standardized monitoring solution for Kubernetes. During the last week of the internship, we rendered a successful deployment to a classified, air-gapped environment! For more information, take a look (at my LinkedIN post)[https://www.linkedin.com/feed/update/urn:li:activity:7494381133749452801/].
+- Previous experiences: This summer, I had the pleasure of working with Awetomaton Ltd. - a defense contractor at Wright-Patterson Air Force Base. Over the summer I worked as a Platform Engineer Intern. My partner and I built and deployed a standardized monitoring solution for Kubernetes. During the last week of the internship, we rendered a successful deployment to a classified, air-gapped environment! For more information, take a look [at my LinkedIN post](https://www.linkedin.com/feed/update/urn:li:activity:7494381133749452801/).
 - Forward thinking: I am currently seeking Spring of 2027 internship opportunities, and I would be glad to contribute in any way! Outside of the classroom, I plan to start contributing to open-source projects this year. If you have any ideas for good teams to collaborate, do not hesitate to reach out!
 - How to reach me: Email - tldalton54@gmail.com | LinkedIN - https://www.linkedin.com/in/daltontyler/
 <!--
