@@ -2,6 +2,9 @@
 
 I am a double major studying Cybersecurity & Networks/System Administration. Here, you can follow along my professional journey as I progress.
 
+[![Grafana](https://img.shields.io/badge/Grafana-Contributor-F46800?logo=grafana&logoColor=white)](https://github.com/grafana-community/helm-charts)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?logo=kubernetes&logoColor=white)
+![Helm](https://img.shields.io/badge/Helm-0F1689?logo=helm&logoColor=white)
 
 - I am currently running a homelab! I have a three-node ProxMox sandbox, and a four-node Kubernetes cluster that I use for enterprise-grade, production work.
 - Previous experiences: This summer, I had the pleasure of working with Awetomaton Ltd. - a defense contractor at Wright-Patterson Air Force Base. Over the summer I worked as a Platform Engineer Intern. My partner and I built and deployed a standardized monitoring solution for Kubernetes. During the last week of the internship, we rendered a successful deployment to a classified, air-gapped environment! For more information, take a look [at my LinkedIN post](https://www.linkedin.com/feed/update/urn:li:activity:7494381133749452801/).
