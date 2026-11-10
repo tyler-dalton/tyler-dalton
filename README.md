@@ -70,7 +70,7 @@ My partner and I designed, built, and deployed a **standardized Kubernetes obser
 </p>
 
 <p align="center">
-  <sub>A little fish shaped by my code, contributions, and consistency.</sub>
+  <sub>A little fish shaped by my code and contributions.</sub>
 </p>
 
 ---
