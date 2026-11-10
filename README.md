@@ -63,6 +63,18 @@ My partner and I designed, built, and deployed a **standardized Kubernetes obser
 
 ---
 
+## My GitHub Koi
+
+<p align="center">
+  <img src="koi/koi.gif" width="256" alt="My GitHub activity represented as a koi fish" />
+</p>
+
+<p align="center">
+  <sub>A little fish shaped by my code, contributions, and consistency.</sub>
+</p>
+
+---
+
 ## 📫 Let's Connect
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Tyler_Dalton-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/daltontyler/)
