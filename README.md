@@ -53,8 +53,8 @@ My partner and I designed, built, and deployed a **standardized Kubernetes obser
 ### Systems & Automation
 
 ![Linux](https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black)
-![Fedora](https://img.shields.io/badge/Fedora-51A2DA?logo=fedora&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white)
+![Ansible](https://img.shields.io/badge/Ansible-EE0000?style=flat&logo=ansible&logoColor=white)
+![Kubuntu](https://img.shields.io/badge/Kubuntu-0079C1?style=flat&logo=kubuntu&logoColor=white)
 
 ### Platforms
 
