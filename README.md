@@ -11,10 +11,11 @@ This profile is where I document what I'm building, learning, breaking, and fixi
 
 ## About me
 * Double major in **Cybersecurity** and **Network/Systems Administration**
-* Interested in **Kubernetes, DevOps, and Infrastructure**
+* **Information Security Analyst** at Medpace
+* **Platform Engineer Intern** at Awetomaton Ltd. Summer of 2026
+* Interested in **DevOps, Infrastructure and automation**
 * Running a multi-cluster **Kubernetes cluster** for hands-on experimentation
-* **Platform Engineer Intern** at Awetomaton Ltd.
-* Beginning my journey as an **open-source contributor**
+* Spending free time as an **open-source contributor**
 
 ---
 
@@ -41,25 +42,17 @@ My partner and I designed, built, and deployed a **standardized Kubernetes obser
 ### Infrastructure & Cloud Native
 
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?logo=kubernetes&logoColor=white)
-![Helm](https://img.shields.io/badge/Helm-0F1689?logo=helm&logoColor=white)
-![Argo CD](https://img.shields.io/badge/Argo_CD-EF7B4D?logo=argo&logoColor=white)
-![Proxmox](https://img.shields.io/badge/Proxmox-E57000?logo=proxmox&logoColor=white)
-
-### Observability
-
-![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?logo=prometheus&logoColor=white)
-![Grafana](https://img.shields.io/badge/Grafana-F46800?logo=grafana&logoColor=white)
-
-### Systems & Automation
-
-![Kubuntu](https://img.shields.io/badge/Kubuntu-0079C1?style=flat&logo=kubuntu&logoColor=white)
 ![Ansible](https://img.shields.io/badge/Ansible-EE0000?style=flat&logo=ansible&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black)
+![Helm](https://img.shields.io/badge/Helm-0F1689?logo=helm&logoColor=white)
+![Proxmox](https://img.shields.io/badge/Proxmox-E57000?logo=proxmox&logoColor=white)
+![Argo CD](https://img.shields.io/badge/Argo_CD-EF7B4D?logo=argo&logoColor=white)
 
 ### Platforms
 
+![Kubuntu](https://img.shields.io/badge/Kubuntu-0079C1?style=flat&logo=kubuntu&logoColor=white)
 ![RKE2](https://img.shields.io/badge/RKE2-2453FF?logo=rancher&logoColor=white)
 ![OpenShift](https://img.shields.io/badge/OpenShift-EE0000?logo=redhatopenshift&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black)
 
 ---
 
